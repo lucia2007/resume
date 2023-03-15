@@ -1,15 +1,14 @@
 @import url('http://fonts.googleapis.com/css?family=Roboto');
 
+
 br {
     display: block;
     line-height: 1.6em;
 }
 
-
-
 ol,
 ul {
-    list-style: none;
+    list-style-type: none;
 }
 
 input,
@@ -50,8 +49,6 @@ img {
     border: 0;
     max-width: 100%;
 }
-
-
 
 /* page structure */
 
@@ -109,6 +106,7 @@ img {
 
 .repo-list ul {
     font-size: 1.2em;
+    list-style-type: none;
 }
 
 .repo-list ul li {
