@@ -391,7 +391,7 @@ div#map {
     min-height: 360px;
 }
 
-/*--------------------------------------------Media Queries */
+/*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
     .section-column {
@@ -406,9 +406,4 @@ div#map {
         margin: 0 auto;
         max-width: 50%;
     }
-}
-
-/*--------------------------------------------Map */
-div#map {
-    min-height: 360px;
 }
